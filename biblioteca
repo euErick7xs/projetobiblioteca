@@ -1,3 +1,6 @@
 Public abstract class Livro {
-
+Private string Titulo;
+Private string Autor;
+Private int AnoPublicacao;
+Private boolean Disponivel;
 }
